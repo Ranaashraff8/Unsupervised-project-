@@ -10,6 +10,6 @@ Table of content
 - Tools:
     - Python (pandas, numpy, matplotlib, seaborn, scikit-learn (for K-means and scaling))
     - Jupyter Notebooks
-    - Talbat Order Data
+    - Online retail Data
 
     
